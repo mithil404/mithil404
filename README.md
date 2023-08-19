@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavy965&label=Profile%20views&color=0e75b6&style=plastic" alt="mavy965" /> </p>
 
-- 🌱 I’m currently learning **Javascript, C++, Bash, DevOps**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **mithilsalunke@protonmail.com**
 
