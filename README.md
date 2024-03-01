@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mithil Salunkhe</h1>
-<h3 align="center">A passionate student developer from India</h3>
+<h3 align="center">A passionate undergrad developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavy965&label=Profile%20views&color=0e75b6&style=plastic" alt="mavy965" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Swift, MERN**
 
 - 📫 How to reach me **mithilsalunke@protonmail.com**
 
